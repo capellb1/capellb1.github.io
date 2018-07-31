@@ -570,7 +570,7 @@ nav ul li a {
 
  /* Style buttons */
 .contact-btn {
-  background-color: #111E6C;
+  background-color: RoyalBlue;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -580,7 +580,7 @@ nav ul li a {
 
 /* Darker background on mouse-over */
 .contact-btn:hover {
-  background-color: RoyalBlue;
+  background-color: #111E6C;
 } 
 
 /*-----------------------------------------------------------------------------------*/
