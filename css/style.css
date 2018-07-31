@@ -568,6 +568,21 @@ nav ul li a {
   font-size: 13px;
 }
 
+ /* Style buttons */
+.contact-btn {
+  background-color: #111E6C;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.contact-btn:hover {
+  background-color: RoyalBlue;
+} 
+
 /*-----------------------------------------------------------------------------------*/
 /*  Footer
 /*-----------------------------------------------------------------------------------*/
@@ -629,17 +644,3 @@ nav ul li a {
   font-size: 13px;
 }
 
- /* Style buttons */
-.btn {
-  background-color: #111E6C;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-}
-
-/* Darker background on mouse-over */
-.btn:hover {
-  background-color: RoyalBlue;
-} 
