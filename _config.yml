@@ -84,6 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-paginate: 5
-paginate_path: travel_blog/page:num
