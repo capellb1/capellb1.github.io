@@ -2,10 +2,10 @@
 main:
   - title: "Posts"
     url: /travel/blog
+  - title: "FAQ"
+    url: /travel/
   - title: "Home"
     url: https://blakecapella.com
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
