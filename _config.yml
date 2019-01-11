@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Blake Capella"
 description              : "Join me on my 6 month travel abroad in Australia and Oceania"
 url                      : "https://blakecapella.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/root" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "capellb1/capellb1.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/home-bg.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
