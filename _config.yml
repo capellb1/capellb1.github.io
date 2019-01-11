@@ -101,7 +101,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+# environment: production
 # Site Author
 author:
   name             : "Blake Capella"
