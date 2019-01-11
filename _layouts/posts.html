@@ -28,5 +28,6 @@ layout: archive
   </section>
 {% endfor %}
 
-{% include disqus.html %}
-
+{% if site.comments %}
+  {% include disqus.html %}
+{% endif %}
