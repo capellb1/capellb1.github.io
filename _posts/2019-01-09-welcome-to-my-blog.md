@@ -15,11 +15,11 @@ After what seems like an unnecessary amount of struggle and headache, I finally 
 
 Now that you've made your way here, feel free to bookmark this site on your browser for easy access. If that is too difficult, you can always navigate here from <https://blakecapella.com>
 
-> blakecapella.com
+> 1. blakecapella.com
 >
-> > Blog
+> > 2. Blog
 > >
-> > > Posts
+> > > 3. Posts
 
 
 
