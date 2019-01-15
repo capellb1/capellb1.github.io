@@ -17,7 +17,7 @@ Now that you've made your way here, feel free to bookmark this site on your brow
 
 > 1. blakecapella.com
 >
-> > 2. Blog
+> > 2. Blog -
 > >
 > > > 3. Posts
 
