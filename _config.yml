@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -27,9 +27,9 @@ teaser                   : "/assets/images/home-bg.jpg" # path of fallback tease
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "blakecapella" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -41,21 +41,21 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : ['name', 'message'] # ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master"
-  commitMessage          : "New comment by {fields.name}" # "New comment by {fields.name}"
-  filename               : comment-{@timestamp} # comment-{@timestamp}
-  format                 : "yml" # "yml"
-  moderation             : false # true
-  path                   : "/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'message'] # ['name', 'email', 'message']
+  allowedFields          : # ['name', 'message'] # ['name', 'email', 'url', 'message']
+  branch                 : #"master" # "master"
+  commitMessage          : #"New comment by {fields.name}" # "New comment by {fields.name}"
+  filename               : #comment-{@timestamp} # comment-{@timestamp}
+  format                 : #"yml" # "yml"
+  moderation             : #false # true
+  path                   : #"/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : #['name', 'message'] # ['name', 'email', 'message']
   transforms:
-    email                : "md5" # "md5"
+    email                : #"md5" # "md5"
   generatedFields:
     date:
-      type               : "date" # "date"
+      type               : #"date" # "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :

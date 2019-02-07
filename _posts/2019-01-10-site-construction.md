@@ -1,10 +1,10 @@
 ---
 layout: posts
-title:  "Site Construction"
+title:  "Nuts and Bolts"
 date:   2019-01-10 20:19:59 -0500
 header: 
-    image: /images/wo1_10/au.jpg
-    caption: "Just a random plane" 
+    image: /images/wo1_10/code.jpg
+    caption: "Credit: Unsplash" 
 
 comments: true
 ---
@@ -21,4 +21,6 @@ The blog however, is built using Jekyll, a static site generator. Here I integra
 
 
 Overall, I probably spent *30 hours* on the bio and *15 hours* on the blog.
+
+---
 
