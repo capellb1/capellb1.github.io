@@ -7,7 +7,6 @@ header:
     caption: "Just a random plane" 
 
 comments: true
-
 ---
 Hello everyone!
 
