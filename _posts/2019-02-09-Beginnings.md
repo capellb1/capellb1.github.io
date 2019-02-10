@@ -21,7 +21,7 @@ For the other 80%, I made a spontaneous to do something different for once.
 
 Flying over the grand canyon, the snow capped foothills and frozen lands of the Midwest, I sat and watched.
 
-![plane](D:\PersonalWebsite\capellb1.github.io\images\wo2_09\plane.jpg)
+![plane](/images/wo2_09/plane.jpg)
 
 Sometimes it takes a change in perspective to open our eyes. As I looked at the millions flakes of snow coating the land as far as the eye could see, the highways reduced to faint lines, I was humbled. There is something about stepping back (or up) that makes you philosophical. Mountains and rivers, ravines, forests and everything between. The water and nitrogen cycles, climate and weather, ecology, all insanely complex systems overlapping perfectly. After staring at the world below me for hours I couldn't help but think that maybe my worries might not be that important.
 
@@ -35,7 +35,7 @@ At some point, his phone died. I had noticed before he wasn't really prepped for
 
 As we near LAX, somewhat out of the blue, he asks if I have had dinner. It was an odd question, but I just said no, not yet. He had decided that in exchange for the charger, he wanted me to get a taste of LA. I resisted, but he insisted. We exchanged numbers and he left. I was skeptical. An hour and a half later, after a cab ride to his house and a stop at In and Out burger, he showed up at Terminal B of LAX. You're the bomb Eman.
 
-![inout](D:\PersonalWebsite\capellb1.github.io\images\wo2_09\inout.jpg)
+![inout](/images/wo2_09/inout.jpg)
 
 ---
 
