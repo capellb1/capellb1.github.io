@@ -2,8 +2,8 @@
 comments: true
 date: 2019-02-20 11:34:59 -05:00
 header: 
-  caption: "Bogey Hole, Newcastle NSW"
-  image: /images/wo2_20/bogeyhole-selfie.jpg
+  caption: "Bondi Beach, Sydney NSW"
+  image: /images/wo3_04/bondi.jpg
 layout: posts
 title: "Events, Events, Events"
 ---
