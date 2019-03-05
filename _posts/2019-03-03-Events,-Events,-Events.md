@@ -26,7 +26,7 @@ The week before classes started is dubbed "O-Week" and is composed of about 10 d
 
 ![Koala](/images/wo3_04/koala.jpg)
 
-![Surf Lessons](/images/wo3_04/seat.jpg)
+![Surf Lessons](/images/wo3_04/seat.jpeg)
 
 ![Newcastle](/images/wo3_04/newy.jpg)
 
@@ -49,8 +49,6 @@ The mountaineering club on the other hand, is more general. In addition to free 
 ![Dinner Stop at Macca's](/images/wo3_04/maccas.jpg)
 
 When you exhaust all of the preplanned adventures, you can turn to good old fashioned exploration. With a few friends, I traveled to Sydney (12 AUD = $8.50 for both ways!) for a few days. After visiting Bondi beach, we took a tour of Circular Quay (pronounced "Circular Key") and the iconic Sydney Harbor Bridge and Opera House. That night, I had my first stay in a hostel. It was surprising and uneventful. Expecting simple group living arrangements I was surprised by how much attention the hostel paid to having a social atmosphere and strong community. Imagine a college dorm turned into a hotel for travelers, and you've got it pinned.
-
-![Bondi](/images/wo3_04/bondi.jpg)
 
 ![Bondi pt2](/images/wo3_04/board.jpg)
 
