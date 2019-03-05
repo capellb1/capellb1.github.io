@@ -26,7 +26,7 @@ The week before classes started is dubbed "O-Week" and is composed of about 10 d
 
 ![Koala](/images/wo3_04/koala.jpg)
 
-![Surf Lessons](/images/wo3_04/seat.jpeg)
+![Surf Lessons](/images/wo3_04/seat.JPEG)
 
 ![Newcastle](/images/wo3_04/newy.jpg)
 
