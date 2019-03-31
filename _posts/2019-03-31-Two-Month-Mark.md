@@ -32,7 +32,7 @@ gallery_sydney:
     alt: "Sydney Harbor Bridge with Lauren"
     title: "Sydney Harbor Bridge with Lauren"
   - url: /images/wo4_01/ihbutnotih.jpg
-    image_path: /images/iwo4_01/ihbutnotih.jpg
+    image_path: /images/wo4_01/ihbutnotih.jpg
     alt: "Guess what the name of our residence hall is?"
     title: "Guess what the name of our residence hall is?"
   - url: /images/wo4_01/bridgenight.jpg
