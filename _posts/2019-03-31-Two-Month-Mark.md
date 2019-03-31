@@ -32,7 +32,7 @@ gallery_sydney:
     alt: "Sydney Harbor Bridge with Lauren"
     title: "Sydney Harbor Bridge with Lauren"
   - url: /images/wo4_01/ihbutnotih.jpg
-    image_path: /images/iwo4_01/hbutnotih.jpg
+    image_path: /images/iwo4_01/ihbutnotih.jpg
     alt: "Guess what the name of our residence hall is?"
     title: "Guess what the name of our residence hall is?"
   - url: /images/wo4_01/bridgenight.jpg
@@ -49,7 +49,7 @@ gallery_sydney:
     title: "Professional Photographer on scene!"
 gallery_shoal:
   - url: /images/wo4_01/shoalbay.JPG
-    image_path: /images/wo4_01/shaolbay.JPG
+    image_path: /images/wo4_01/shoalbay.JPG
     alt: "placeholder image 1"
     title: "Peak of Mt. Tomaree"
   - url: /images/wo4_01/shaaaooolll.jpg
