@@ -3,7 +3,7 @@ comments: true
 date: 2019-03-31 11:34:59 -05:00
 header: 
   caption: "Shoal Bay, NSW"
-  image: /images/wo4_01/background.jpg
+  image: /images/wo4_01/background.JPG
 layout: posts
 title: "Two Month Mark"
 gallery_sydney:
@@ -48,8 +48,8 @@ gallery_sydney:
     alt: "placeholder image 4"
     title: "Professional Photographer on scene!"
 gallery_shoal:
-  - url: /images/wo4_01/shoalbay.jpg
-    image_path: /images/wo4_01/shaolbay.jpg
+  - url: /images/wo4_01/shoalbay.JPG
+    image_path: /images/wo4_01/shaolbay.JPG
     alt: "placeholder image 1"
     title: "Peak of Mt. Tomaree"
   - url: /images/wo4_01/shaaaooolll.jpg
@@ -101,17 +101,15 @@ Rock climbing is still going well, but I also still don't have video documentati
 
 Since I last wrote, I've been on a handful of fun trips. First was a three day extravaganza in Sydney, capped by a rainy boat party in the Sydney harbor.
 
-```
-{% include gallery id="gallery_sydney" layout="full" caption="Photos from our trip to Sydney!" %}
-```
+{% include gallery id="gallery_sydney" layout="half" caption="Photos from our trip to Sydney!" %}
 
 Getting off the beaten path a little bit, me and my friends made it to Shoal Bay.
 
-{% include gallery id="gallery_shoal" layout="full" caption="Hiking and Beach Day!" %}
+{% include gallery id="gallery_shoal" layout="half" caption="Hiking and Beach Day!" %}
 
 After the initial lure of canyoning, I couldn't stay away from it for too long.
 
-{% include gallery id="gallery_canyon" layout="full" caption="Finishing the canyoning trip from a while back" %}
+{% include gallery id="gallery_canyon" layout="half" caption="Finishing the canyoning trip from a while back" %}
 
 I tried my hand at pub TV trivia. I was outclassed by Haley and Saugat in my knowledge of Brooklyn 99 and only got a _little_ bit of the show spoiled.
 
@@ -127,6 +125,6 @@ A classic as always, you can't say you've partied until you've been at a silent 
 
 Of course, behind all of these pictures are countless stories, ruined sleep schedules, and good times with a great group of friends. 
 
-{% include gallery id="gallery_behind" layout="full" caption="Glimpse into the life behind the scenes" %}
+{% include gallery id="gallery_behind" layout="half" caption="Glimpse into the life behind the scenes" %}
 
 Even though I feel like I've done so much, I can remember showing up like it was yesterday. When you're not constantly thinking about it, but rather spending your time and energy on things you enjoy, its no wonder that you forget to keep track of time. 
