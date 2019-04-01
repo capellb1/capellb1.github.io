@@ -83,15 +83,15 @@ gallery_behind:
 
 ---
 
-There are a lot of experiences mess with your perception of time. Running a marathon, watching a movie, the list goes on and on. The well-worn adage tells us that time flies when we're having fun. I mean, its a popular quote for a reason, but it's a little bit limiting. 
+There are a lot of experiences that mess with your perception of time. Running a marathon, watching a movie, the list goes on and on. The well-worn adage tells us that time flies when we're having fun. I mean, its a popular quote for a reason, but it's a little bit limiting. 
 
 As I type this, time is ticking forward, slowly bringing the start of week six. If anyone is doing the quick math right now, no its not week six of my trip, but week six of classes. With only seven weeks left before final exams, I think I can say I've settled into life here. 
 
-A few things that I have learned about my university, some majors only last three years. They are well renowned for their engineering department, and frankly I can see why. I also learned that most engineering majors like to take three courses at a time to keep their workload balanced. Coming from the US, I was used to taking more than five classes in addition to working 10 hours a week. Well, to my surprise, taking only four different third year engineering courses has __not__ been a cakewalk.
+A few things that I have learned about my university so far; some majors only last three years. They are well renowned for their engineering department, and frankly I can see why. I also learned that most engineering majors like to take three courses at a time to keep their workload balanced. Coming from the US, I was used to taking more than five classes in addition to working 10 hours a week, so I figured I could handle the four classes with loads of free time to spare. Well, to my surprise, taking four different third year engineering courses has __not__ been a cakewalk.
 
 Unintentionally I loaded myself with one of the most intense schedules possible for any student, not even just for exchange students. The option was either that, or to not come to Aus at all, so frankly I'm not too upset.
 
-My point with all of this is not for pity, but to say that with so much work, I wouldn't expect time to fly so fast. Working an average of 10 hour days during the week doesn't exactly sound like a good time.  Its not like I'm skimping on my workload either, I honestly think I been more academically challenged this semester than I ever have in my academic career. That's all good, but am I even enjoying my time across the world?
+My point with all of this is not for pity, but to say that with so much work, I wouldn't expect time to fly so fast. Working an average of 10 hour days during the week doesn't exactly sound like a good time.  Its not like I'm skimping on my workload either, I honestly think I been more academically challenged this semester than I ever have in the US. That's all good, but am I even enjoying my time?
 
 Absolutely.
 
@@ -119,7 +119,7 @@ When surrounded by beaches, who doesn't attend a public full moon meditation at 
 
 ![moon](/images/wo4_01/moonmeditation.jpg)
 
-A classic as always, you can't say you've partied until you've been at a silent disco. Its like a concert with 2 DJ's playing at once:
+You can't say you've partied until you've been at a silent disco. Its like a concert with 2 DJ's playing at once, and if you take off your headphones you can hear everyone singing out of tune:
 
 ![disco](/images/wo4_01/silentdisco.jpg)
 
