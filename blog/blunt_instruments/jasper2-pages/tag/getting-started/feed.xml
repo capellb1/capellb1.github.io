@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/blunt_instruments/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/blunt_instruments/" rel="alternate" type="text/html" />
+  <updated>2022-11-07T00:59:10-08:00</updated>
+  <id>http://localhost:4000/blunt_instruments/tag/getting-started/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Blunt Instruments | </title>
+  
+
+  
+    <subtitle>A collection of writings that strive, often unsucessfully, to capture the beautiful complexity of the human experience.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Nuts and Bolts</title>
+      <link href="http://localhost:4000/blunt_instruments/site-construction" rel="alternate" type="text/html" title="Nuts and Bolts" />
+      <published>2019-01-10T17:19:59-08:00</published>
+      <updated>2019-01-10T17:19:59-08:00</updated>
+      <id>http://localhost:4000/blunt_instruments/site-construction</id>
+      <content type="html" xml:base="http://localhost:4000/blunt_instruments/site-construction">&lt;p&gt;For those curious, I am using GitHub Pages to host the site, which is composed in two separate sections:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resume/Bio&lt;/li&gt;
+  &lt;li&gt;Travel Blog&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first section is built using a modified bootstrap template dating back from my summer at CMU. The resume portion of the website gave me a quick and dirty rundown on &lt;strong&gt;CSS&lt;/strong&gt; and &lt;strong&gt;HTML&lt;/strong&gt;. And by quick and dirty, I mean I have only just enough knowledge to be dangerous, but not enough to have any clue what exactly is going on.&lt;/p&gt;
+
+&lt;p&gt;The blog however, is built using Jekyll, a static site generator. Here I integrated a Jekyll template made by &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;minimalmistakes&lt;/a&gt;. Most of this work involved learning some &lt;strong&gt;Ruby&lt;/strong&gt; (AKA downloading it and copying commands). Finally, the comment section required some basic &lt;strong&gt;JavaScript&lt;/strong&gt; and &lt;strong&gt;Liquid&lt;/strong&gt; manipulation.&lt;/p&gt;
+
+&lt;p&gt;Overall, I probably spent &lt;em&gt;30 hours&lt;/em&gt; on the bio and &lt;em&gt;15 hours&lt;/em&gt; on the blog.&lt;/p&gt;
+
+&lt;hr /&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Blake Capella</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting Started" />
+      
+
+      
+        <summary type="html">For those curious, I am using GitHub Pages to host the site, which is composed in two separate sections: Resume/Bio Travel Blog The first section is built using a modified bootstrap template dating back from my summer at CMU. The resume portion of the website gave me a quick and dirty rundown on CSS and HTML. And by quick and dirty, I mean I have only just enough knowledge to be dangerous, but not enough to have any clue what exactly is going on. The blog however, is built using Jekyll, a static site generator. Here I integrated a Jekyll template made by minimalmistakes. Most of this work involved learning some Ruby (AKA downloading it and copying commands). Finally, the comment section required some basic JavaScript and Liquid manipulation. Overall, I probably spent 30 hours on the bio and 15 hours on the blog.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Welcome to my Blog</title>
+      <link href="http://localhost:4000/blunt_instruments/welcome-to-my-blog" rel="alternate" type="text/html" title="Welcome to my Blog" />
+      <published>2019-01-09T17:19:59-08:00</published>
+      <updated>2019-01-09T17:19:59-08:00</updated>
+      <id>http://localhost:4000/blunt_instruments/welcome-to-my-blog</id>
+      <content type="html" xml:base="http://localhost:4000/blunt_instruments/welcome-to-my-blog">&lt;p&gt;Hello everyone!&lt;/p&gt;
+
+&lt;p&gt;After what seems like an unnecessary amount of struggle and headache, I finally have my travel blog up and running!&lt;/p&gt;
+
+&lt;p&gt;Now that you’ve made your way here, feel free to bookmark this site on your browser for easy access. If that is too difficult, you can always navigate here from &lt;a href=&quot;https://blakecapella.com&quot;&gt;https://blakecapella.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;blakecapella.com&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Blog&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Posts&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;faq&quot;&gt;FAQ&lt;/h3&gt;
+
+&lt;p&gt;I’m sure many of you have tons of questions about my trip! Rather than try and explain them to everyone individually, I included some pretty pictures and links to cool resources explaining everything in more detail and honestly, more accurately than I probably could. This FAQ page can be found on the top bar of the site. The FAQ page is also the very first page you are directed to from https://blakecapella.com.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions that aren’t addressed in the FAQ, feel free to reach out to me!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In case you forgot my various email addresses, etc., They can be found next to my picture on this page along with all other blog posts&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;itinerary&quot;&gt;Itinerary&lt;/h3&gt;
+
+&lt;p&gt;I will be uploading an itinerary hopefully as my next post. However, be aware that my goal is to be spontaneous! That means I am not exactly sure where I will be and when. However, you will still be able to follow along with all my posts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.australia.com/content/australia/en/events/sports-events/surfest/_jcr_content/imageMapWithCityLink/image.img.png&quot; alt=&quot;picture alt&quot; title=&quot;Cool Picture&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Overall, I am super excited for the trip! With a few weeks left in winter break, I feel like I still have so much to do.  The weeks will fly by, and Ill be posting again sooner than I think!&lt;/p&gt;
+
+&lt;p&gt;Keep Posted!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Blake Capella</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Getting Started" />
+      
+
+      
+        <summary type="html">Hello everyone! After what seems like an unnecessary amount of struggle and headache, I finally have my travel blog up and running! Now that you’ve made your way here, feel free to bookmark this site on your browser for easy access. If that is too difficult, you can always navigate here from https://blakecapella.com blakecapella.com Blog Posts FAQ I’m sure many of you have tons of questions about my trip! Rather than try and explain them to everyone individually, I included some pretty pictures and links to cool resources explaining everything in more detail and honestly, more accurately than I probably could. This FAQ page can be found on the top bar of the site. The FAQ page is also the very first page you are directed to from https://blakecapella.com. If you have any questions that aren’t addressed in the FAQ, feel free to reach out to me! In case you forgot my various email addresses, etc., They can be found next to my picture on this page along with all other blog posts Itinerary I will be uploading an itinerary hopefully as my next post. However, be aware that my goal is to be spontaneous! That means I am not exactly sure where I will be and when. However, you will still be able to follow along with all my posts. Overall, I am super excited for the trip! With a few weeks left in winter break, I feel like I still have so much to do. The weeks will fly by, and Ill be posting again sooner than I think! Keep Posted!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
