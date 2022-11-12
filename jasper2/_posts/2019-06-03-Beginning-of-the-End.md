@@ -7,70 +7,6 @@ date: 2019-06-03 11:34:59 -05:00
 cover: assets/images/wo6_14/background_uluru.jpg
 layout: post
 title: "Beginning of the End"
-gallery_uluru:
-  - url: assets/images/wo6_14/camp.jpg
-    image_path: assets/images/wo6_14/camp.jpg
-    alt: "placeholder image 1"
-    title: "Sleeping under the stars"
-  - url: assets/images/wo6_14/king.jpg
-    image_path: assets/images/wo6_14/king.jpg
-    alt: "placeholder image 1"
-    title: "King's Canyon, Watarrka National Park, NT"
-  - url: assets/images/wo6_14/red.jpg
-    image_path: assets/images/wo6_14/red.jpg
-    alt: "placeholder image 1"
-    title: "Red Centre"
-  - url: assets/images/wo6_14/vow.jpg
-    image_path: assets/images/wo6_14/vow.jpg
-    alt: "placeholder image 1"
-    title: "Valley of the Winds, Kata Tjuta"
-  - url: assets/images/wo6_14/sunset.jpg
-    image_path: assets/images/wo6_14/sunset.jpg
-    alt: "placeholder image 1"
-    title: "Uluru Sunset"
-  - url: assets/images/wo6_14/alice.jpg
-    image_path: assets/images/wo6_14/alice.jpg
-    alt: "placeholder image 1"
-    title: "Alice Springs, NT"
-gallery_climb:
-  - url: assets/images/wo6_14/fcbb.jpg
-    image_path: assets/images/wo6_14/fcbb.jpg
-    alt: "placeholder image 1"
-    title: "Belaying!"
-  - url: assets/images/wo6_14/bcfb.jpg
-    image_path: assets/images/wo6_14/bcfb.jpg
-    alt: "placeholder image 1"
-    title: "Top Rope Climbing"
-  - url: assets/images/wo6_14/fhbb.jpg
-    image_path: assets/images/wo6_14/fhbb.jpg
-    alt: "placeholder image 1"
-    title: "Stumped"
-  - url: assets/images/wo6_14/bb.jpg
-    image_path: assets/images/wo6_14/bb.jpg
-    alt: "placeholder image 1"
-    title: "Bouldering"
-  - url: assets/images/wo6_14/bhb.jpg
-    image_path: assets/images/wo6_14/bhb.jpg
-    alt: "placeholder image 1"
-    title: "Partners Bouldering, must stay in contact at all times!"
-gallery_surf:
-  - url: assets/images/wo6_14/casual_surf.jpg
-    image_path: assets/images/wo6_14/casual_surf.jpg
-    alt: "placeholder image 1"
-    title: "Cold sand is not fun"
-  - url: assets/images/wo6_14/surff.jpg
-    image_path: assets/images/wo6_14/surff.jpg
-    alt: "placeholder image 1"
-    title: "My standup is still a work in progress"
-  - url: assets/images/wo6_14/surf.jpg
-    image_path: assets/images/wo6_14/surf.jpg
-    alt: "placeholder image 1"
-    title: "Not particularly steady"
-  - url: assets/images/wo6_14/wow.jpg
-    image_path: assets/images/wo6_14/wow.jpg
-    alt: "placeholder image 1"
-    title: "Waves of Wellness"
-
 tags: [Study Abroad]
 author: blake
 ---
@@ -103,7 +39,12 @@ Just to give you a sense of scale, Alice Springs, the closest civilization to Ul
 
 For this trip I was traveling with a slightly different group of friends, both coincidentally from the North East of the US. As remote as it is, when we were planning the trip we did   of a lot of research into the benefits of renting a car vs booking a tour (also into cheap flights). Eventually we settled on a 3 day rock tour. Thanks to our obsession with cheap flights, it only took a few all nighters to make it there! Thousands of driven kilometers after we landed, we returned to the airport. The tour guide was amazing, and as a group of traveling youth, it was a great experience. Nights sleeping under the stars, with no light pollution, will spoil almost any stargazing I will ever do again. Sunrise and sunset at Uluru, the local culture and history, and stunning landscape made it an unforgettable trip. Imagine ranch country, maybe somewhere in Texas or similar states. Give it an Australian twist and boom, you've got it pictured. 
 
-{% include gallery id="gallery_uluru" layout="half" caption="Red Centre Trip" %}
+![camp](assets/images/wo6_14/camp.jpg)
+![KC](assets/images/wo6_14/king.jpg)
+![redcentre](assets/images/wo6_14/red.jpg)
+![katatjuta](assets/images/wo6_14/vow.jpg)
+![ulurusun](assets/images/wo6_14/sunset.jpg)
+![aspring](assets/images/wo6_14/alice.jpg)
 
 I've kept at my many hobbies, and seen significant progress in each of them.
 
@@ -111,13 +52,18 @@ As the university's volleyball team prepares for their national competition, Uni
 
 In addition to the regular top rope climbing I've been doing, I also have had the fortune of going bouldering at a gym off campus a few times. While climbing on a rope can be fun, its completely different from bouldering. A top rope climb is a marathon, where you can ascend four to five stories in a single climb, with a few particularly challenging sections here and there. Bouldering is more of a sprint with nothing but challenging sections. The climbs are shorter, about one story at its max. For my own record, and in the Australian grading system, my top rope climbs are hovering at about 16, while my bouldering is roughly at V4.
 
-{% include gallery id="gallery_climb" layout="half" caption="Climbing" %}
+![belay](assets/images/wo6_14/fcbb.jpg)
+![topr](assets/images/wo6_14/bcfb.jpg)
+![stumpd](assets/images/wo6_14/fhbb.jpg)
+![bldr](assets/images/wo6_14/bb.jpg)
+![prtnr](assets/images/wo6_14/bhb.jpg)
 
 Finally, I've been surfing a bit too. I had the privilege of joining a 6 week surf program centered about wellness, social activities, and morning routines. To get to the beach in time, I have been waking up at 5am for a few days each week. Watching the sunrise, catching a coffee, and going for a surf before 9 is a magical feeling.  Slowly but surely, I'm turning into a morning person.
 
-{% include gallery id="gallery_surf" layout="half" caption="Surfing" %}
-
-
+![colds](assets/images/wo6_14/casual_surf.jpg)
+![surff](assets/images/wo6_14/surff.jpg)
+![steady](assets/images/wo6_14/surf.jpg)
+![wellness](assets/images/wo6_14/wow.jpg)
 
 And of course, there were a few adventures on the side.
 

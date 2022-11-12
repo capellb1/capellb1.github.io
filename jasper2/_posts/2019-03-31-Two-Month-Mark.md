@@ -1,4 +1,5 @@
 ---
+
 navigation: True
 comments: true
 class: post-template
@@ -7,80 +8,6 @@ date: 2019-03-31 11:34:59 -05:00
 cover: assets/images/wo4_01/background.JPG
 layout: post
 title: "Two Month Mark"
-gallery_sydney:
-  - url: assets/images/wo4_01/boatrain.jpg
-    image_path: assets/images/wo4_01/boatrain.jpg
-    alt: "placeholder image 1"
-    title: "Rain never stopped anyone"
-  - url: assets/images/wo4_01/bridge_curve.jpg
-    image_path: assets/images/wo4_01/bridge_curve.jpg
-    alt: "Photo Credit to Lauren!"
-    title: "Photo Credit to Lauren!"
-  - url: assets/images/wo4_01/bridge_day_turn.jpg
-    image_path: assets/images/wo4_01/bridge_day_turn.jpg
-    alt: "View from the botanical garden"
-    title: "View from the botanical garden"
-  - url: assets/images/wo4_01/hostel.jpg
-    image_path: assets/images/wo4_01/hostel.jpg
-    alt: "Probably the sketchiest hostel in Sydney..."
-    title: "Probably the sketchiest hostel in Sydney..."
-  - url: assets/images/wo4_01/hydefount.jpg
-    image_path: assets/images/wo4_01/hydefount.jpg
-    alt: "ANZAC Memorial Reflecting Pool"
-    title: "ANZAC Memorial Reflecting Pool"
-  - url: assets/images/wo4_01/laurenbridge.jpg
-    image_path: assets/images/wo4_01/laurenbridge.jpg
-    alt: "Sydney Harbor Bridge with Lauren"
-    title: "Sydney Harbor Bridge with Lauren"
-  - url: assets/images/wo4_01/ihbutnotih.jpg
-    image_path: assets/images/wo4_01/ihbutnotih.jpg
-    alt: "Guess what the name of our residence hall is?"
-    title: "Guess what the name of our residence hall is?"
-  - url: assets/images/wo4_01/bridgenight.jpg
-    image_path: assets/images/wo4_01/bridgenight.jpg
-    alt: "placeholder image 4"
-    title: "No more rain! With Mat and Haley!"
-  - url: assets/images/wo4_01/harborselfie.jpg
-    image_path: assets/images/wo4_01/harborselfie.jpg
-    alt: "placeholder image 4"
-    title: "Obligatory"
-  - url: assets/images/wo4_01/boatparty_medium.jpg
-    image_path: assets/images/wo4_01/boatparty_medium.jpg
-    alt: "placeholder image 4"
-    title: "Professional Photographer on scene!"
-gallery_shoal:
-  - url: assets/images/wo4_01/shoalbay.JPG
-    image_path: assets/images/wo4_01/shoalbay.JPG
-    alt: "placeholder image 1"
-    title: "Peak of Mt. Tomaree"
-  - url: assets/images/wo4_01/shaaaooolll.jpg
-    image_path: assets/images/wo4_01/shaaaooolll.jpg
-    alt: "Do people actually read these?"
-    title: "Matt with the selfie stick!"
-
-gallery_canyon:
-  - url: assets/images/wo4_01/grouplensflare.jpg
-    image_path: assets/images/wo4_01/grouplensflare.jpg
-    alt: "placeholder image 1"
-    title: "If only I could see the picture I was taking..."
-  - url: assets/images/wo4_01/underwaterthumbsup.jpg
-    image_path: assets/images/wo4_01/underwaterthumbsup.jpg
-    alt: "Do people actually read these?"
-    title: "Taken immediately after sliding into a whirlpool!"
-
-gallery_behind:
-  - url: assets/images/wo4_01/trainstation.jpg
-    image_path: assets/images/wo4_01/trainstation.jpg
-    alt: "placeholder image 1"
-    title: "Behind the scenes!"
-  - url: assets/images/wo4_01/frenchtoast.jpg
-    image_path: assets/images/wo4_01/frenchtoast.jpg
-    alt: "Do people actually read these?"
-    title: "When 3 people sleep through your brunch"
-  - url: assets/images/wo4_01/hydewalk.jpg
-    image_path: assets/images/wo4_01/hydewalk.jpg
-    alt: "Do people actually read these?"
-    title: "Nobody told me there was a picture!"
 tags: [Study Abroad]
 author: blake
 ---
@@ -103,15 +30,37 @@ Rock climbing is still going well, but I also still don't have video documentati
 
 Since I last wrote, I've been on a handful of fun trips. First was a three day extravaganza in Sydney, capped by a rainy boat party in the Sydney harbor.
 
-{% include gallery id="gallery_sydney" layout="half" caption="Photos from our trip to Sydney!" %}
+![rain](assets/images/wo4_01/boatrain.jpg)
+
+![bridge](assets/images/wo4_01/bridge_curve.jpg)
+
+![garden](assets/images/wo4_01/bridge_day_turn.jpg)
+
+![hostel](assets/images/wo4_01/hostel.jpg)
+
+![hyde](assets/images/wo4_01/hydefount.jpg)
+
+![bridgeL](assets/images/wo4_01/laurenbridge.jpg) 
+
+![ih](assets/images/wo4_01/ihbutnotih.jpg)
+
+![nightB](assets/images/wo4_01/bridgenight.jpg)
+
+![selfie](assets/images/wo4_01/harborselfie.jpg)
+
+![partyboat](assets/images/wo4_01/boatparty_medium.jpg)
 
 Getting off the beaten path a little bit, me and my friends made it to Shoal Bay.
 
-{% include gallery id="gallery_shoal" layout="half" caption="Hiking and Beach Day!" %}
+![Tomaree](assets/images/wo4_01/shoalbay.JPG)
+
+![shoal](assets/images/wo4_01/shaaaooolll.jpg)
 
 After the initial lure of canyoning, I couldn't stay away from it for too long.
 
-{% include gallery id="gallery_canyon" layout="half" caption="Finishing the canyoning trip from a while back" %}
+![group](assets/images/wo4_01/grouplensflare.jpg)
+
+![canyoning](assets/images/wo4_01/underwaterthumbsup.jpg)
 
 I tried my hand at pub TV trivia. I was outclassed by Haley and Saugat in my knowledge of Brooklyn 99 and only got a _little_ bit of the show spoiled.
 
@@ -127,6 +76,10 @@ You can't say you've partied until you've been at a silent disco. Its like a con
 
 Of course, behind all of these pictures are countless stories, ruined sleep schedules, and good times with a great group of friends. 
 
-{% include gallery id="gallery_behind" layout="half" caption="Glimpse into the life behind the scenes" %}
+![train](assets/images/wo4_01/trainstation.jpg)
+
+![frenchtoast](assets/images/wo4_01/frenchtoast.jpg)
+
+![hydewalk](assets/images/wo4_01/hydewalk.jpg)
 
 Even though I feel like I've done so much, I can remember showing up like it was yesterday. When you're not constantly thinking about it, but rather spending your time and energy on things you enjoy, its no wonder that you forget to keep track of time. 
