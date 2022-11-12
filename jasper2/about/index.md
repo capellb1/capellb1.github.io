@@ -1,0 +1,21 @@
+---
+layout: page
+current: about
+title: The Art of Failing Beautifully
+navigation: true
+logo: 'assets/images/ghost.png'
+class: page-template
+subclass: 'post page'
+---
+
+There is an absurdity to human life that is hard to capture with words. There is something hidden in small moments; Lonely roads, a thousand voices in harmony, old friends or fresh tears. For a part of our community, those moments are enthralling. As if we were a thousand days in the desert with no thought of water, we fight for them. Poets work to put down words, painters bring form to space, and some simply speak. These groups may claim Thoreau or Tennyson, Picasso or Monet, but this desire is no lofty ambition. The great works of art that resonate with the people feed this primal urge to see the life around us. In Walden, we have the distilled reflections of a naturalist. In Picasso, works that redefine the human understanding of art, emotion and beauty. Human attempts at wrangling incomprehensible beauty.
+
+If so primal, why are we not all hanging Monet's Lily's on our bare walls? Why is the MET not booked until next summer? The answer is simple. As simple as it is formless to our minds. The very case I can make for this ascribed human need is wrapped inexorably with the experiences I, as the author, have lived. It is my college days touring the MET, my studies in medieval epic poetry and my local bookstore. My community is not the only community. It is so easy to rationally accept these words, yet I challenge you to face yourself.  How do we know what it is like to live in Wichita, KS, Atlanta GA, or Newark NJ? Or how about in Casalborgone, Italy? It is the height of human egocentrism to even imply we can grasp the depth of these lives across the world with merely a thought. Such arrogance that despite a growing inability to connect with the rough fabric of our own lives, we might be able to grasp another's so trivially.
+
+But, sometimes, it is possible. There are times we can open the window to peer across miles of open grass to the souls on the other side. With such distance there is a loss in resolution. A grain of rice blends with oaken table, table lost amongst paper walls and austere furnishings. We do not see wrinkles in a mother's face, or even a whole face at all. It is not the details of a traditional Japanese life that make it to us, but poignant emotion. It is there when you sit down at the bar, it is there on the bus as you ride to work, it is in our classrooms, our cities, towns and farms. It is in our own homes. Traveling around us are billions of sacred stories. The "why" to a dream, cherished memories and heartfelt reflections on a life lived. Even born without access to an education, to the English language, or a "refined" culture, storytelling lives on. All of us, desperately trying to capture the elegance and beauty of our lives, to compare notes with each other in the search for an ephemeral goal: to grasp the essence of human experience. 
+
+So often we lose sight of this. There is enough stimulation and activity in our lives that the stillness of these moments is filled with the tin of restless activity. The nightly drives turn ruminate, or our own emotions become uncomfortable and harsh. We think, oh how much we think! We believe that we know what will bring us happiness, we are resolute that our own internal compass is infallible all while lacking the self-awareness to understand it isn't ours at all. Worst of all, we think we understand what it means to be alive. We think we understand the stories of others, and that anything left to learn is not quite valuable enough to bother. Not when we have work in the morning. 
+
+For such an ailment, there is a clear solution. Communicate. Meet each other. Take hold of your joy and passion, your rage and pain to tell your story. Pick up your brush or open your mouth. If we leave the stories to the famous and elite, we deprive one another of sustenance and discredit the true scope of our humanity. We do not need to be perfect, we do not need to be elegant. All we need, is to try. Our subject matter, the very soul of our time on earth, is so complex and nuanced that even warped and distorted it holds power. 
+
+>So let us pick up our tools, as poor as they may be, and set to work.

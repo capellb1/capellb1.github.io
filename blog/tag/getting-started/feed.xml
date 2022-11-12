@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/blog/blunt_instruments/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/blog/blunt_instruments/" rel="alternate" type="text/html" />
-  <updated>2022-11-08T23:42:26-08:00</updated>
-  <id>http://localhost:4000/blog/blunt_instruments/tag/getting-started/feed.xml</id>
+  <link href="http://localhost:4000/blog/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/blog/" rel="alternate" type="text/html" />
+  <updated>2022-11-12T11:17:37-08:00</updated>
+  <id>http://localhost:4000/blog/tag/getting-started/feed.xml</id>
 
   
   
@@ -47,11 +47,11 @@
   
     <entry>
       <title type="html">Nuts and Bolts</title>
-      <link href="http://localhost:4000/blog/blunt_instruments/site-construction" rel="alternate" type="text/html" title="Nuts and Bolts" />
+      <link href="http://localhost:4000/blog/site-construction" rel="alternate" type="text/html" title="Nuts and Bolts" />
       <published>2019-01-10T17:19:59-08:00</published>
       <updated>2019-01-10T17:19:59-08:00</updated>
-      <id>http://localhost:4000/blog/blunt_instruments/site-construction</id>
-      <content type="html" xml:base="http://localhost:4000/blog/blunt_instruments/site-construction">&lt;p&gt;For those curious, I am using GitHub Pages to host the site, which is composed in two separate sections:&lt;/p&gt;
+      <id>http://localhost:4000/blog/site-construction</id>
+      <content type="html" xml:base="http://localhost:4000/blog/site-construction">&lt;p&gt;For those curious, I am using GitHub Pages to host the site, which is composed in two separate sections:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Resume/Bio&lt;/li&gt;
@@ -94,11 +94,11 @@
   
     <entry>
       <title type="html">Welcome to my Blog</title>
-      <link href="http://localhost:4000/blog/blunt_instruments/welcome-to-my-blog" rel="alternate" type="text/html" title="Welcome to my Blog" />
+      <link href="http://localhost:4000/blog/welcome-to-my-blog" rel="alternate" type="text/html" title="Welcome to my Blog" />
       <published>2019-01-09T17:19:59-08:00</published>
       <updated>2019-01-09T17:19:59-08:00</updated>
-      <id>http://localhost:4000/blog/blunt_instruments/welcome-to-my-blog</id>
-      <content type="html" xml:base="http://localhost:4000/blog/blunt_instruments/welcome-to-my-blog">&lt;p&gt;Hello everyone!&lt;/p&gt;
+      <id>http://localhost:4000/blog/welcome-to-my-blog</id>
+      <content type="html" xml:base="http://localhost:4000/blog/welcome-to-my-blog">&lt;p&gt;Hello everyone!&lt;/p&gt;
 
 &lt;p&gt;After what seems like an unnecessary amount of struggle and headache, I finally have my travel blog up and running!&lt;/p&gt;
 

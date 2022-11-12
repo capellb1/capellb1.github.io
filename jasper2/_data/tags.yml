@@ -1,0 +1,21 @@
+speeches:
+  name: speeches
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg
+fiction:
+  name: fiction
+  description: False
+  cover: False
+fables:
+  name: fables
+  description: A series of short stories that make you think.
+  cover: assets/images/fables.jpg
+getting-started:
+  name: getting-started
+  description: False
+  cover: False
+study-abroad:
+    name: study-abroad
+    description: In the Summer of 2019, I studied and trekked my way across Australia with a global cast of companions. Collected here are my reflections from this incredible journey and stories of time spent with the people I met along the way.
+    cover: assets/images/waves.jpg
+    
