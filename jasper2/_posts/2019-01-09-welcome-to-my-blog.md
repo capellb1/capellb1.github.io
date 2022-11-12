@@ -35,10 +35,6 @@ If you have any questions that aren't addressed in the FAQ, feel free to reach o
 
 I will be uploading an itinerary hopefully as my next post. However, be aware that my goal is to be spontaneous! That means I am not exactly sure where I will be and when. However, you will still be able to follow along with all my posts.
 
-![picture alt](https://www.australia.com/content/australia/en/events/sports-events/surfest/_jcr_content/imageMapWithCityLink/image.img.png "Cool Picture")
-
-
-
 ---
 
 Overall, I am super excited for the trip! With a few weeks left in winter break, I feel like I still have so much to do.  The weeks will fly by, and Ill be posting again sooner than I think!

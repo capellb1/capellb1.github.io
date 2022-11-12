@@ -67,6 +67,4 @@ Finally, I've been surfing a bit too. I had the privilege of joining a 6 week su
 
 And of course, there were a few adventures on the side.
 
-![cool](assets/images/wo6_14/cooler.jpg)
-
-![blue](assets/images/wo6_14/blu.jpg)
+![cool](assets/images/wo6_14/cooler.jpg)![blue](assets/images/wo6_14/blu.jpg)
