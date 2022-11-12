@@ -25,7 +25,7 @@ baseurl: /blog/
 # Website info
 title: Blunt Instruments
 description: A collection of writings that strive, often unsucessfully, to capture the beautiful complexity of the human experience.
-cover: assets/images/blog-cover.jpg
+cover: assets/images/rishikesh_cover.jpg
 logo: assets/images/BI_Whitetext_1.png
 logo_dark: assets/images/Dark_logo.png
 favicon: assets/images/Dark_logo.png
@@ -86,7 +86,7 @@ repo: capellb1.github.io
 branch: master
 relative_source: /jasper2/
 destination: /blog/
-url: https://blakecapella.com/
+url: https://blakecapella.com
 production_url:  https://blakecapella.com/
 source_url:  https://github.com/capellb1/capellb1.github.io/
 
