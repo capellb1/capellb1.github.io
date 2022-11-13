@@ -9,6 +9,22 @@ comments: true
 tags: [Getting Started]
 author: blake
 ---
+
+
+### Edit: 
+
+After several years of inactivity, I have revived the blog! I am excited to once again have a platform to share my writing with anyone and everyone. Although my blogging started out restricted to travel, its reincarnation will include all manner of thought provoking topics (travel included!). If this is your first time visiting, welcome, and to all the seasoned veterans thank you for your continued support!
+
+With gratitude,
+
+The author.
+
+November 12, 2022
+
+
+
+---
+
 Hello everyone!
 
 After what seems like an unnecessary amount of struggle and headache, I finally have my travel blog up and running! 
@@ -16,14 +32,11 @@ After what seems like an unnecessary amount of struggle and headache, I finally 
 Now that you've made your way here, feel free to bookmark this site on your browser for easy access. If that is too difficult, you can always navigate here from <https://blakecapella.com>
 
 1. blakecapella.com
-
 2. Blog 
 
-3. Posts
 
 
-
-### FAQ
+##### FAQ
 
 I'm sure many of you have tons of questions about my trip! Rather than try and explain them to everyone individually, I included some pretty pictures and links to cool resources explaining everything in more detail and honestly, more accurately than I probably could. This FAQ page can be found on the top bar of the site. The FAQ page is also the very first page you are directed to from https://blakecapella.com. 
 
@@ -31,7 +44,7 @@ If you have any questions that aren't addressed in the FAQ, feel free to reach o
 
 *In case you forgot my various email addresses, etc., They can be found next to my picture on this page along with all other blog posts*
 
-### Itinerary
+##### Itinerary
 
 I will be uploading an itinerary hopefully as my next post. However, be aware that my goal is to be spontaneous! That means I am not exactly sure where I will be and when. However, you will still be able to follow along with all my posts.
 
@@ -42,4 +55,3 @@ Overall, I am super excited for the trip! With a few weeks left in winter break,
 
 
 Keep Posted!
-
